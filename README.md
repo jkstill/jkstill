@@ -1,9 +1,9 @@
 
 
 
-[Github Activity](https://github-readme-stats.vercel.app/api?username=jkstill&show_icons=true&theme=merko&count_private=true)
-
-[Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkstill&layout=compact&theme=merko)
+<a href="https://github.com/jkstill/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jkstill&show_icons=true&theme=merko&count_private=true" alt="Jared's github stats" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jkstill&layout=compact&theme=merko"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkstill&layout=compact&theme=merko" /></a> 
+://github-readme-stats.vercel.app/api/top-langs/?username=jkstill&layout=compact&theme=merko)
 
 
 
