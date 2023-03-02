@@ -5,7 +5,7 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jkstill&layout=compact&theme=merko&exclude_repo=log4j-tools,NtTrace,it-cert-automation-practice,oracle-db-examples,SLOB_distribution,teradata-migration-etl,ashmasters,glibc&langs_count=10"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkstill&layout=compact&theme=merko" /></a> 
 
-Not sure why Go is appearing as 50% of code, that is far too high.
+Go appears as 50% of code due to all the included libraries.
 
 <!--
 
