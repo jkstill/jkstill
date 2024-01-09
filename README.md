@@ -8,9 +8,8 @@
 Go appears as 50% of code due to all the included libraries.
 
 <!---
--->
-
 Jared Still's GitHub repo - this is a place holder for the currently non-functioning Repo Stats App
+-->
 
 <!--
 
