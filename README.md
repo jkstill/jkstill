@@ -1,14 +1,5 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Github Stats is Down</title>
-</head>
-<body>
-    The service that provided these stats is currently down
-</body>
-</html>
-
+## The service that provided these stats is currently down
 
 <a href="https://github.com/jkstill/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jkstill&show_icons=true&theme=merko&count_private=true" alt="Jared's github stats" /></a>
 
