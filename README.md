@@ -1,5 +1,6 @@
 [![Jared's GitHub stats](https://github-stats-extended.vercel.app/api?username=jkstill)](https://github.com/stats-organization/github-stats-extended)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jkstill&langs_count=6&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=jkstill&langs_count=6&theme=tokyonight)
 <!---
 
 <a href="https://github.com/jkstill/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jkstill&show_icons=true&theme=merko&count_private=true" alt="Jared's github stats" /></a>
