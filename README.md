@@ -2,6 +2,8 @@
 
 I've worked with Oracle databases since 1994, primarily as a DBA, performance analyst, and developer. Most of the repositories here grew out of real production work, performance investigations, or tools I wanted but couldn't find.
 
+Most repositories began as tools to solve real Oracle and Linux problems, investigate database behavior, or automate repetitive tasks.
+
 ## Areas of interest
 
 - Oracle Database performance and diagnostics
