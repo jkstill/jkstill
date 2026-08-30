@@ -1,3 +1,40 @@
+# Hi, I'm Jared Still
+
+I've worked with Oracle databases since 1994, primarily as a DBA, performance analyst, and developer. Most of the repositories here grew out of real production work, performance investigations, or tools I wanted but couldn't find.
+
+## Areas of interest
+
+- Oracle Database performance and diagnostics
+- RAC, ASM, Data Guard, and internals
+- Linux systems and performance analysis
+- Shell, Perl, Python, and automation
+- AI-assisted tooling for database engineering
+
+## Featured repositories
+
+### Oracle
+- oracle-script-lib
+- sqlrun
+- asm-metrics
+- cpu-aas
+
+### Linux & Utilities
+- sar-tools
+- csv-tools
+
+### Current projects
+- aicli
+- oracle-doc-parser
+- photo-scan
+
+### Publications
+- Pro Oracle SQL (Expert's Voice in Oracle) - Co-Author
+- Perl for Oracle DBAs - Co-Author
+- Articles in DBAZine (no longer published), RMOUG Journal.
+
+### Presentations
+- IOUG, RMOUG, UKOUG, various local Oracle groups.
+
 [![Jared's GitHub stats](https://github-stats-extended.vercel.app/api?username=jkstill)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jkstill&langs_count=6&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=jkstill&langs_count=6&theme=tokyonight)
